@@ -220,9 +220,9 @@ export NOGO_MINER_LOGFILE=miner.log
 If you encounter any issues during use, you can get help through the following channels:
 
 - 项目 GitHub 仓库：[NogoChain](https://github.com/nogochain/core-nogo)
-- 社区论坛：[NogoChain 社区](https://community.nogochain.org)
-- 技术支持邮箱：support@nogochain.org
+- 社区论坛：[NogoChain 社区](https://community.nogochain.com)
+- 技术支持邮箱：info@nogochain.com
 
 - Project GitHub Repository: [NogoChain](https://github.com/nogochain/core-nogo)
-- Community Forum: [NogoChain Community](https://community.nogochain.org)
-- Technical Support Email: support@nogochain.org
+- Community Forum: [NogoChain Community](https://community.nogochain.com)
+- Technical Support Email: info@nogochain.com
